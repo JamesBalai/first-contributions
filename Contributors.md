@@ -25,6 +25,7 @@
 - [Ankit] (https://github.com/rathaur-ankit)
 - [benjaminbii] (https://github.com/benjaminbii)
 - [zyx18298126158-netizen](https://github.com/zyx18298126158-netizen)
+- James Balai
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
 - [anaskhan002006-lab](https://github.com/anaskhan002006-lab)
 - [Mohammed](https://github.com/mosaahgaal-png) #Contributors
